@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "username": "admin",
+    "password": "1234",
+    "from": "Uzbekistan"
+  },
+  {
+    "id": 735,
+    "username": "admin1",
+    "password": "1111",
+    "from": "Tashkent"
+  },
+  {
+    "id": 568,
+    "username": "admin2",
+    "password": "1111",
+    "from": "Tashkent"
+  },
+  {
+    "id": 166,
+    "username": "admin3",
+    "password": "1111",
+    "from": "Tashkent"
+  },
+  {
+    "id": 317,
+    "username": "admin4",
+    "password": "1111",
+    "from": "Tashkent"
+  }
+]
